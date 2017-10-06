@@ -1,9 +1,7 @@
-
----
 ![Girl Develop It](images/gdi-dayton-logo.png) <!-- .element: class="no-border" -->
 
 #### Network: ???
-### #Password: ???
+#### Password: ???
 #### Slides: [http://bit.ly/gdi-dayton-intro-to-git](http://bit.ly/gdi-dayton-intro-to-git)
 
 While you wait for class to begin, get on the wifi, bring up the slides and go through the prerequistes for class.
@@ -12,9 +10,13 @@ While you wait for class to begin, get on the wifi, bring up the slides and go t
 ![Girl Develop It](images/gdi-dayton-logo.png) <!-- .element: class="no-border" -->
 ## Introduction to Command Line, Git & GitHub</h3>
 Brought to you by [Girl Develop It Dayton](www.gdidayton.com)
+
 [@GDIDayton](http://www.twitter.com/gdidayton)
+
 Presented by [Kevin Jones-Evans](http://www.twitter.com/kevinjonesevans)
-Teaching assistants are Ren & K.C. </small>
+
+Teaching assistants are Ren & K.C.
+
 ---
 ### Welcome!
 Girl Develop It is here to provide affordable and accessible programs to learn software through mentorship and hands on instruction.
@@ -45,3 +47,5 @@ Girl Develop It is here to provide affordable and accessible programs to learn s
 * What do you hope to get out of the class?
 * What is your favorite fall beverage?
 ---
+
+# Alright let's get started!
