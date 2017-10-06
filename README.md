@@ -1,4 +1,4 @@
-# Intro to Git &amp; Github :octocat:  
+# Intro to Command Line, Git &amp; GitHub :octocat:  
 
 **Presented by [Girl Develop It, Dayton](http://gdidayton.com)**
 Much Love to, Forked from [tcmacdonald](https://github.com/tcmacdonald) from [gdicincy](http://git.gdicincy.com/).
