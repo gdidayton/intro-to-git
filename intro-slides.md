@@ -29,11 +29,13 @@ Girl Develop It is here to provide affordable and accessible programs to learn s
 
 ---
 ## Thanks to our location sponsor:
+
 ![WBI](images/wbi.png)
 
 ---
 ## Thanks to our snacks sponsor:
-![Mile Two](images/mile_two.png)
+
+![Mile Two](images/mile_two.png =600px)
 
 
 ---
