@@ -35,7 +35,7 @@ Sign up for free at [https://github.com/join](https://github.com/join).
 
 Resource|URL
 ---|---
-Slides|[http://gdidayton.com/intro-to-git/#/](http://kevinjonesevans.github.io/intro-to-git/#/)
+Slides|[http://gdidayton.com/intro-to-git/#/](https://gdidayton.github.io/intro-to-git/#/)
 Part One: Intro to Bash|[https://github.com/gdidayton/intro-to-git/blob/master/bash.md](https://github.com/gdidayton/intro-to-git/blob/master/bash.md)
 Part Two: Intro to Git|[https://github.com/gdidayton/intro-to-git/blob/master/git.md](https://github.com/gdidayton/intro-to-git/blob/master/git.md)
 Starter Kit|[https://github.com/gdidayton/intro-to-git-starter-kit](https://github.com/gdidayton/intro-to-git-starter-kit)
