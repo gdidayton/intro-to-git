@@ -35,7 +35,7 @@ Girl Develop It is here to provide affordable and accessible programs to learn s
 ---
 ## Thanks to our snacks sponsor:
 
-![Mile Two](images/mile_two.png =600px)
+<img src="images/mile_two.png" height="600px">
 
 
 ---
