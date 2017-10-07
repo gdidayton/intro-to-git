@@ -1,7 +1,7 @@
 ![Girl Develop It](images/gdi-dayton-logo.png) <!-- .element: class="no-border" -->
 
-#### Network: ???
-#### Password: ???
+#### Network: WBI 2nd Street
+#### Password: 2ndStreet
 #### Slides: [http://bit.ly/gdi-dayton-intro-to-git](http://bit.ly/gdi-dayton-intro-to-git)
 
 While you wait for class to begin, get on the wifi, bring up the slides and go through the prerequistes for class.
@@ -40,7 +40,7 @@ Girl Develop It is here to provide affordable and accessible programs to learn s
 
 ---
 ## A few quick announcements
-* WiFi Network is ???, the password is ??
+* WiFi Network is WBI 2nd Street the password is 2ndStreet
 * Restrooms are down the hall and to the left
 * Please be respectful!
 ---					
