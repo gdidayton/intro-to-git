@@ -63,16 +63,13 @@ The outline below is provided as a handy reference of the commands we'll cover i
 
 ---
 
-`wget` - Download a file.
+`curl` - Download a file.
 
 > __Required Arguments:__  
-> File url... `wget <url>`
+> File url... `curl -O <url>`
 
 > __Hint:__  
-> Try executing this... `wget http://www.gutenberg.org/cache/epub/2600/pg2600.txt`
-
-> __Note for Mac Users:__  
-> If you don't have `wget` try this... `curl -O  http://www.gutenberg.org/cache/epub/2600/pg2600.txt`
+> Try executing this... `curl -O http://www.gutenberg.org/cache/epub/2600/pg2600.txt`
 
 ---
 
