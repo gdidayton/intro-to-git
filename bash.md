@@ -69,7 +69,7 @@ The outline below is provided as a handy reference of the commands we'll cover i
 > File url... `curl -O <url>`
 
 > __Hint:__  
-> Try executing this... `curl -O http://www.gutenberg.org/cache/epub/2600/pg2600.txt`
+> Try executing this... `curl -O https://github.com/git/git/blob/master/Documentation/giteveryday.txt`
 
 ---
 
