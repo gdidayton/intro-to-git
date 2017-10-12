@@ -159,6 +159,9 @@ The outline below is provided as a handy reference of the commands we'll cover i
 > __Hints:__  
 > Exit a man page by pressing the 'q' key on your keyboard.
 
+> __Note For Windows Users...__  
+> Use this command instead... `help` or  `--help`
+
 `history` - Show command history  
 > __Special Characters:__  
 > Recall previous command... `!!`  
